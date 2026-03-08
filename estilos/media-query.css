@@ -26,6 +26,7 @@ Desktop : 992px até 1200px
 @media  screen and (min-width: 992px) {
     section#login {
         width: 950px;
+        height: 300px;
     }
     section#login > div#imagem {
         float: left;
